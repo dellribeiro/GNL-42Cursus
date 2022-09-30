@@ -1,8 +1,8 @@
 # 42 Cursus' get_next_line(GNL)
 
 ##### ***Reading a line from a fd is way too tedious\***
+![Logo](https://github.com/dellribeiro/GNL-42Cursus/blob/main/Badge/get_next_linem.png) 
 
-![](C:\Users\dellh\OneDrive\Imagens\get_next_linem.png)
 
 ##  Status
 
